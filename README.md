@@ -1,57 +1,148 @@
-## Hi there 👋
+# Hi there, I'm Michelle Gathoni Njuguna 👋
 
-<!--
-**Mishiez/mishiez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I am a final-year Bachelor of Science in Computer Science student at The Co-operative University of Kenya, passionate about transforming data into insights and building software solutions that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests lie at the intersection of:
 
-# Michelle Gathoni's Portfolio
+- 📊 Data Analytics & Data Science
+- 🤖 Machine Learning
+- 💻 Full-Stack Software Development
+- 📈 Business Intelligence
+- 🏗️ Process Automation
 
-Welcome to my GitHub profile! I'm Michelle Gathoni, a third-year Computer Science student at the Co-operative University of Kenya. I am passionate about web development, open-source contributions, and network configurations. I enjoy learning new technologies and applying them in real-world projects. 
+I recently completed the ALX Data Analytics Program, where I gained hands-on experience in SQL, Python, Excel, and Power BI to clean, analyze, and visualize data for decision-making.
 
-## 📚 Projects
+I am currently seeking graduate opportunities and internships in:
 
-### 1. [Virtual Pet Care System](https://github.com/mishiez/PetCare)
-A web application designed to assist pet owners in managing their pets' health and care routines. The system includes features such as appointment booking, tips on pet care, pet profiles, a community forum, and emergency services/helplines.
+- Data Science
+- Data Analytics
+- Business Intelligence
+- Software Engineering
 
-### 2. [Landing Page](https://github.com/Mishiez/Landing-Page)
-A simple landing page built using HTML, CSS, and JavaScript, showcasing my web development skills.
+---
 
-### 3. [Etch a Sketch](https://github.com/Mishiez/Etch-A-Sketch)
-An interactive Etch-a-Sketch project that allows users to draw on a grid with different color options.
+## 🛠️ Technical Skills
 
-## 🔧 Technologies & Tools
+### Data Analytics & Data Science
+- SQL (Joins, CTEs, Window Functions, Subqueries)
+- Python (Pandas, NumPy, Matplotlib, Jupyter Notebook)
+- Power BI (DAX, Data Modeling, Interactive Dashboards)
+- Microsoft Excel & Google Sheets
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Transformation
+- Statistical Analysis
+- Machine Learning Fundamentals
 
-- Python & Django
-- HTML, CSS, JavaScript
+### Software Development
+- React.js
+- Next.js
+- TypeScript
+- Django & Django REST Framework
+- GraphQL & REST APIs
+- PostgreSQL, MySQL, SQLite
 - Git & GitHub
-- Cisco Packet Tracer
-- MySQL
-- Docker (upcoming)
-- Open Source Contributions
+
+### Tools & Platforms
+- VS Code
+- Ubuntu Linux
+- Power BI
+- Jupyter Notebook
+
+---
+
+## 📂 Featured Projects
+
+### 🌍 CollaboTours – Tourism Collaboration & Booking Platform
+A full-stack platform that enables tourism businesses to collaborate, list services, and receive bookings while allowing tourists to browse packages and pay online.
+
+**Key Features:**
+- Business registration and partnership management
+- Tourist booking system
+- M-Pesa Daraja STK Push integration
+- JWT authentication
+- PostgreSQL database design
+
+**Tech Stack:** React, Django REST Framework, PostgreSQL, M-Pesa Daraja API
+
+---
+
+### 📊 Data Analytics & Dashboard Projects
+A collection of projects completed during the ALX Data Analytics Program involving:
+
+- Data cleaning and preprocessing
+- SQL-based analysis
+- Exploratory data analysis
+- Power BI dashboards
+- Business reporting
+
+**Tools:** Python, SQL, Power BI, Excel
+
+---
+
+### 💧 Maji Ndogo Water Services Analysis
+Analyzed water service data to identify infrastructure gaps and support planning decisions.
+
+**Skills Applied:**
+- SQL joins and window functions
+- Data transformation
+- Power BI dashboard development
+- Cost analysis using DAX
+
+---
+
+### 🚢 Titanic Survival Prediction
+Built a machine learning model to predict passenger survival using feature engineering and classification techniques.
+
+**Tools:** Python, Pandas, Scikit-learn
+
+---
+
+## 💼 Experience
+
+### Software Development Intern — Rastuc Technologies
+Worked on production applications using React, Tailwind CSS, GraphQL, and backend APIs in a collaborative development environment.
+
+---
+
+## 🎓 Education
+
+**The Co-operative University of Kenya**  
+Bachelor of Science in Computer Science  
+Expected Graduation: 2026
+
+---
+
+## 📜 Certifications & Training
+
+- ALX Data Analytics Program
+- ALX Professional Foundations
+
+---
 
 ## 🌱 Currently Learning
 
-- Data Science
-- Exploring new technologies outside of web development
-- Pet care and animal-related software solutions
+- Machine Learning
+- Forecasting
+- Experiment Design
+- Data Engineering
+- MLOps Fundamentals
 
-## 💼 Let's Connect
+---
 
-I'm currently open to internships and freelancing opportunities, especially in web development and software engineering. Feel free to reach out to me for collaboration or any questions!
+## 📫 Connect With Me
 
-- Email: [michellegathonimain@gmail.com](mailto:michellegathonimain@gmail.com)
-- LinkedIn: [linkedin.com/in/michellegathoni](https://www.linkedin.com/in/michelle-gathoni-629803260)
-- GitHub: [github.com/mishiez](https://github.com/mishiez)
+- 📧 Email: michellegathonimain@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/michelle-gathoni-629803260
+- 🐙 GitHub: https://github.com/Mishiez
 
-Thank you for visiting my profile 💖
+---
+
+## 📈 Career Goal
+
+To build a career in Data Science and Analytics by combining technical expertise, analytical thinking, and software engineering to create solutions that drive impactful decisions.
+
+---
+
+⭐ Thank you for visiting my profile!
