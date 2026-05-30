@@ -1,148 +1,83 @@
-# Hi there, I'm Michelle Gathoni Njuguna 👋
+# I don't just write code — I use it to ask questions data can actually answer.
 
-## 🚀 About Me
+Final-year Computer Science student building full-stack products and turning raw data into decisions.
+I work at the intersection of **software engineering, data analytics, and machine learning** — focused on solving real, structured problems.
 
-I am a final-year Bachelor of Science in Computer Science student at The Co-operative University of Kenya, passionate about transforming data into insights and building software solutions that solve real-world problems.
-
-My interests lie at the intersection of:
-
-- 📊 Data Analytics & Data Science
-- 🤖 Machine Learning
-- 💻 Full-Stack Software Development
-- 📈 Business Intelligence
-- 🏗️ Process Automation
-
-I recently completed the ALX Data Analytics Program, where I gained hands-on experience in SQL, Python, Excel, and Power BI to clean, analyze, and visualize data for decision-making.
-
-I am currently seeking graduate opportunities and internships in:
-
-- Data Science
-- Data Analytics
-- Business Intelligence
-- Software Engineering
+If you're building something that needs both engineering and data thinking — let's talk.
 
 ---
 
-## 🛠️ Technical Skills
+## ⭐ Featured Projects
 
-### Data Analytics & Data Science
-- SQL (Joins, CTEs, Window Functions, Subqueries)
-- Python (Pandas, NumPy, Matplotlib, Jupyter Notebook)
-- Power BI (DAX, Data Modeling, Interactive Dashboards)
-- Microsoft Excel & Google Sheets
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Transformation
-- Statistical Analysis
-- Machine Learning Fundamentals
+### 🏀 The GOAT Debate: Jordan vs LeBron
+> *Can data settle the greatest basketball argument of all time?*
 
-### Software Development
-- React.js
-- Next.js
-- TypeScript
-- Django & Django REST Framework
-- GraphQL & REST APIs
-- PostgreSQL, MySQL, SQLite
-- Git & GitHub
+I analysed **2,685 career games** across regular seasons and playoffs to evaluate performance, consistency, longevity, and impact — built a full data pipeline in MySQL and an **8-page interactive Power BI dashboard** across 7 performance dimensions.
 
-### Tools & Platforms
-- VS Code
-- Ubuntu Linux
-- Power BI
-- Jupyter Notebook
+**Key insight:** Both players share a **66.1% career win rate**. Greatness depends on what you value, not just raw numbers.
+
+`MySQL` · `Power BI` · `DAX` · `CTEs` · `Window Functions` · `Data Modeling`
+
+🔗 [View project](https://github.com/Mishiez/jordan-vs-lebron)
 
 ---
 
-## 📂 Featured Projects
+### 🌍 CollaboTours — Tourism Booking Platform
+> *What if tourism businesses could collaborate instead of operating in isolation?*
 
-### 🌍 CollaboTours – Tourism Collaboration & Booking Platform
-A full-stack platform that enables tourism businesses to collaborate, list services, and receive bookings while allowing tourists to browse packages and pay online.
+A full-stack platform connecting tourism providers and travellers through bookings, partnerships, and service listings — with **M-Pesa STK Push** for mobile payments, JWT authentication, and a relational database designed from scratch.
 
-**Key Features:**
-- Business registration and partnership management
-- Tourist booking system
-- M-Pesa Daraja STK Push integration
-- JWT authentication
-- PostgreSQL database design
-
-**Tech Stack:** React, Django REST Framework, PostgreSQL, M-Pesa Daraja API
-
----
-
-### 📊 Data Analytics & Dashboard Projects
-A collection of projects completed during the ALX Data Analytics Program involving:
-
-- Data cleaning and preprocessing
-- SQL-based analysis
-- Exploratory data analysis
-- Power BI dashboards
-- Business reporting
-
-**Tools:** Python, SQL, Power BI, Excel
-
----
-
-### 💧 Maji Ndogo Water Services Analysis
-Analyzed water service data to identify infrastructure gaps and support planning decisions.
-
-**Skills Applied:**
-- SQL joins and window functions
-- Data transformation
-- Power BI dashboard development
-- Cost analysis using DAX
+`React` · `Django REST` · `PostgreSQL` · `M-Pesa Daraja API` · `JWT`
 
 ---
 
 ### 🚢 Titanic Survival Prediction
-Built a machine learning model to predict passenger survival using feature engineering and classification techniques.
+> *What did survival actually depend on — and can a model learn it?*
 
-**Tools:** Python, Pandas, Scikit-learn
+My first end-to-end ML pipeline: raw data → cleaning → feature engineering → trained classifier → evaluation. Less about the accuracy number, more about learning to think like a data scientist.
+
+`Python` · `Pandas` · `Scikit-learn` · `Feature Engineering` · `Classification`
+
+---
+
+## ⚙️ Skills 
+
+| | |
+|---|---|
+| **SQL** | CTEs, window functions & joins across 2,685 game records; infrastructure gap analysis in Maji Ndogo |
+| **Power BI + DAX** | 8-page interactive dashboard with custom measures and cost modelling |
+| **Python** | End-to-end ML pipeline from raw data through model evaluation |
+| **React + Django REST** | Production features at Rastuc Technologies; full API + frontend in CollaboTours |
+| **Data Modeling** | Relational schema design and DAX measures for BI reporting |
 
 ---
 
 ## 💼 Experience
 
-### Software Development Intern — Rastuc Technologies
-Worked on production applications using React, Tailwind CSS, GraphQL, and backend APIs in a collaborative development environment.
+**Software Development Intern — Rastuc Technologies**
+Built production-ready features using React, Tailwind CSS, GraphQL, and backend APIs in a team environment.
 
 ---
 
 ## 🎓 Education
 
-**The Co-operative University of Kenya**  
-Bachelor of Science in Computer Science  
-Expected Graduation: 2026
+**BSc Computer Science** — The Co-operative University of Kenya *(Expected 2026)*
+**ALX Data Analytics Program** — SQL, Excel, Python, Power BI for real-world analytics
 
 ---
 
-## 📜 Certifications & Training
+## 🌱 Currently exploring
 
-- ALX Data Analytics Program
-- ALX Professional Foundations
-
----
-
-## 🌱 Currently Learning
-
-- Machine Learning
-- Forecasting
-- Experiment Design
-- Data Engineering
-- MLOps Fundamentals
+Machine learning · Data engineering · Forecasting · Experiment design · MLOps
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's connect
 
-- 📧 Email: michellegathonimain@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/michelle-gathoni-629803260
-- 🐙 GitHub: https://github.com/Mishiez
+I'm looking to collaborate — side projects, open-source contributions, short contracts, entry-level roles. If the problem is interesting, I'm in.
 
----
-
-## 📈 Career Goal
-
-To build a career in Data Science and Analytics by combining technical expertise, analytical thinking, and software engineering to create solutions that drive impactful decisions.
+📧 michellegathonimain@gmail.com · [LinkedIn](https://www.linkedin.com/in/michelle-gathoni-629803260) · [GitHub](https://github.com/Mishiez)
 
 ---
 
-⭐ Thank you for visiting my profile!
+> *"Data doesn't always give answers — but it always gives direction."*
