@@ -22,12 +22,26 @@ I analysed **2,685 career games** across regular seasons and playoffs to evaluat
 
 ---
 
-### 🌍 CollaboTours — Tourism Booking Platform
-> *What if tourism businesses could collaborate instead of operating in isolation?*
+### 🌍 CollaboTours — Tourism Collaboration & Booking Platform
+> *What if tourism businesses could collaborate to create richer travel experiences instead of operating in isolation?*
 
-A full-stack platform connecting tourism providers and travellers through bookings, partnerships, and service listings — with **M-Pesa STK Push** for mobile payments, JWT authentication, and a relational database designed from scratch.
+A full-stack tourism platform that enables businesses to manage services, create collaborative travel packages, and receive bookings from tourists through a single digital platform. The system features secure JWT authentication, M-Pesa STK Push payments, business collaboration workflows, and a RESTful API built with Django.
 
-`React` · `Django REST` · `PostgreSQL` · `M-Pesa Daraja API` · `JWT`
+**Highlights**
+
+- 🔐 JWT Authentication
+- 🤝 Business collaboration management
+- 🎒 Travel package creation
+- 📅 Booking management
+- 💳 M-Pesa STK Push integration
+- ⚡ RESTful API with Django REST Framework
+
+`React` · `Django REST Framework` · `PostgreSQL` · `SQLite` · `JWT` · `M-Pesa Daraja API`
+
+**Repositories**
+
+- 🎨 Frontend: https://github.com/Mishiez/collabotours-frontend
+- ⚙️ Backend: https://github.com/Mishiez/collabotours-backend
 
 ---
 
